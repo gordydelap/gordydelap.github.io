@@ -6,9 +6,9 @@ https://www.linkedin.com/in/gordondelap/
 
 # Summary of Qualifications
 
-**•** Created GIS tools for various King County Parks sections including Capital Improvement Projects, Land Management, and the Historic Preservation Program
-**•** Skilled in various programming languages such as Python, Java, and R.
-**•** Specialized in geospatial data analysis
+- Created GIS tools for various King County Parks sections including Capital Improvement Projects, Land Management, and the Historic Preservation Program
+- Skilled in various programming languages such as Python, Java, and R
+- Specialized in geospatial data analysis
 
 # Education
 
