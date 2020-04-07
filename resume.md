@@ -16,6 +16,7 @@ https://www.linkedin.com/in/gordondelap/
 
 **B.A. in Mathematics and Geographic Information Systems**, GPA: 3.52 (September 2017 - June 2020)
 - Relevant coursework: Linear Algebra, Differential Equations, Linear Analysis, Probability, Linear Optimization, Numerical Analysis, Computer Programming, Principles of GIS Mapping, GIS Database Programming, GIS Data Management, Advanced Digital Geographies
+
 # Work Experience
 
 ## King County Parks (Seattle, WA)
