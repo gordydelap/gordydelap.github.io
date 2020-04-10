@@ -1,8 +1,8 @@
 # Gordon DeLap
 
-<img src = https://www.freepnglogos.com/uploads/logo-gmail-png/logo-gmail-png-gmail-icon-download-png-and-vector-1.png alt="drawing" width="20"/> gdelap@uw.edu
+:email: gdelap@uw.edu
 
-<img src = https://www.freepnglogos.com/uploads/linkedin-blue-style-logo-png-0.png alt="drawing" width="20"/> https://www.linkedin.com/in/gordondelap/
+ :link: https://www.linkedin.com/in/gordondelap/
 
 # Summary of Qualifications
 
