@@ -4,7 +4,7 @@
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-the-big-picture/blob/master/LICENSE)
  */
 body {
-  background: url('https://www.siematic-seattle.com/fileadmin/_processed_/csm_HDSeattle_Skyline_SieMatic_e1b9a132a3.jpg') no-repeat center center fixed;
+  background: url('images/seattle') no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   background-size: cover;
